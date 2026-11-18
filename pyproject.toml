@@ -1,0 +1,7 @@
+[project]
+name = "nlp_lesson_correction_assistant"
+version = "0.1.0"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
