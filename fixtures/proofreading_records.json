@@ -1,0 +1,18 @@
+[
+  {
+    "record_id": "physics-lesson-1",
+    "source": "proofreading-demo",
+    "revision": 1,
+    "observed_at": "2026-11-18T09:10:00Z",
+    "context": "物理",
+    "text": "小球从斜面滚下，速度越来越快，它跑的很快。根据惯性定律，物体总保持匀速直线运动状态或静止状态。。"
+  },
+  {
+    "record_id": "history-lesson-1",
+    "source": "proofreading-demo",
+    "revision": 1,
+    "observed_at": "2026-11-18T09:12:00Z",
+    "context": "科学史",
+    "text": "教材先介绍了惯性定律一词的来源，再说明它后来被称为牛顿第一定律。"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "version": "2026.11",
+  "entries": [
+    {
+      "entry_id": "typo-pao-de",
+      "term": "跑的很快",
+      "replacement": "跑得很快",
+      "category": "错别字",
+      "note": "动词后的补语标志用“得”"
+    },
+    {
+      "entry_id": "term-guanxing",
+      "term": "惯性定律",
+      "replacement": "牛顿第一定律",
+      "category": "术语",
+      "note": "物理课件推荐使用规范术语"
+    },
+    {
+      "entry_id": "punct-double-stop",
+      "term": "。。",
+      "replacement": "。",
+      "category": "标点",
+      "note": "重复的句号"
+    }
+  ]
+}
